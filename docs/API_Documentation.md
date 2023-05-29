@@ -67,7 +67,7 @@ It's formatted in JSON and the format is in here.
 ```
 The parameter is the same with the parameter that you set in the parameter settings in OobaBooga.
 ## [POST] /api/v1/chat
-It's formatted in JSON
+It's formatted in JSON and the format is in here.
 ```
 {
 
